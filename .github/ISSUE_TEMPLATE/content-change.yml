@@ -1,0 +1,22 @@
+name: Content change
+description: Propose an update to ODM website content
+title: "[Content] "
+labels: [content]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Intended outcome
+      description: What should change for the reader?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or rationale

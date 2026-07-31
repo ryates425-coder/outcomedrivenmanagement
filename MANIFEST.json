@@ -1,0 +1,127 @@
+[
+  {
+    "path": ".github/CODEOWNERS",
+    "bytes": 83,
+    "sha256": "b2e9667c39735f13b89ce37465ec6f423eb7f342957d4c07c399522e40e2ba15"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/config.yml",
+    "bytes": 45,
+    "sha256": "e71bea835ed1158881306294d96968f125b0b0c5eff66cd94df559336bd0b210"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/content-change.yml",
+    "bytes": 498,
+    "sha256": "1aa0398f713f6e183baa621322720bb4a81373213048e27c2b85245747ba8d08"
+  },
+  {
+    "path": ".github/pull_request_template.md",
+    "bytes": 358,
+    "sha256": "bf23316b96bb860488cc0e27b31528494deae824d87fcb02798923a6324ee6b7"
+  },
+  {
+    "path": ".github/workflows/check.yml",
+    "bytes": 287,
+    "sha256": "7676367c130f232f4a6f9318506910d57e8aaca364ce1987efc5a6a74962542a"
+  },
+  {
+    "path": ".github/workflows/deploy-pages.yml",
+    "bytes": 680,
+    "sha256": "3a01bc94b12e40b8e1cf762dcc558a39a1c4cc7cc8db4f9d360a9cdd95938df3"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 79,
+    "sha256": "8862b290aa1adb56166a0822d9087649db4f28f1032ae89afaa81a35d4c325a8"
+  },
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "CNAME.example",
+    "bytes": 16,
+    "sha256": "a029e8a9c3faa9f8cb745caa8136503e3a6dccaac9f4c130574c0e587235970e"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 702,
+    "sha256": "67f48ba3ab350b9ed76216ea3c200935aee2959499db091febc58c486cd157bd"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1082,
+    "sha256": "79331b832bfbad95d10b888377ad1001384897d789eb145c29f2df5870a15858"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1622,
+    "sha256": "3da255387294ae3d988529d54f0cd680ae66d7179c7962dca53004b07acb377a"
+  },
+  {
+    "path": "SECURITY.md",
+    "bytes": 324,
+    "sha256": "014affef0e414c0e9276c621b69a232e96e05a2dfd231d0cc351eb7cc2b52389"
+  },
+  {
+    "path": "assets/favicon.svg",
+    "bytes": 311,
+    "sha256": "fdb206616edd72ddcf4b1420b5ebc7c8aeb265aa3a70057535d7e6b75436ad65"
+  },
+  {
+    "path": "assets/social-card.svg",
+    "bytes": 622,
+    "sha256": "ed2e35897ca2f965054bcb774f4f3e721df89ba5ee19825812dae2e93a066b0f"
+  },
+  {
+    "path": "docs/CONTENT-MODEL.md",
+    "bytes": 788,
+    "sha256": "0ef3144cc988a15d0bcbb6131a8836a3bd8b8d6e8c3858be37d599315040c872"
+  },
+  {
+    "path": "docs/DECISIONS.md",
+    "bytes": 528,
+    "sha256": "bdf394e0f32a447a8bcb614f1a357840c9b2532c0abd4807672e07ce5117e1cc"
+  },
+  {
+    "path": "docs/SQUARESPACE.md",
+    "bytes": 1256,
+    "sha256": "3be6bf0185cb7777e0842b5345dd173dae413fc3c0181ff0c43feaa8fccdeee8"
+  },
+  {
+    "path": "index.html",
+    "bytes": 7926,
+    "sha256": "75cfe936b352bf44810527f83b511e7e10ff5567b6ceb62c0394e5213a821171"
+  },
+  {
+    "path": "package.json",
+    "bytes": 300,
+    "sha256": "56fa8dfd2a44690503b0333219abf273ac91b60e0f48c113b36328e37e60ef57"
+  },
+  {
+    "path": "robots.txt",
+    "bytes": 23,
+    "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+  },
+  {
+    "path": "script.js",
+    "bytes": 725,
+    "sha256": "284acf993d1a54f004a7d991805a21342004f4c3285dd9e2f8487b998a32e19e"
+  },
+  {
+    "path": "scripts/check-links.mjs",
+    "bytes": 428,
+    "sha256": "90e4d21a055e8e56e19a88f392c81e7291b886e70dc69a7c7556e29617014e2a"
+  },
+  {
+    "path": "sitemap.xml",
+    "bytes": 213,
+    "sha256": "3d5e999eb430c22d790e0778143a3b65c6ddc956510d4f0792525b1cd958d102"
+  },
+  {
+    "path": "styles.css",
+    "bytes": 6400,
+    "sha256": "0f13cc4ed2f06a788004c1845c03e3b3133ae0b307710fe3a4e09055030a55d7"
+  }
+]
