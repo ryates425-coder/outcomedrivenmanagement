@@ -1,0 +1,4 @@
+import fs from "node:fs";import path from "node:path";
+const root=process.cwd();const exts=new Set([".html",".css",".js",".mjs",".md"]);const ignored=new Set([".git","node_modules"]);const hits=[];
+function walk(dir){for(const ent of fs.readdirSync(dir,{withFileTypes:true})){if(ignored.has(ent.name))continue;const p=path.join(dir,ent.name);if(ent.isDirectory())walk(p);else if(exts.has(path.extname(ent.name))){const t=fs.readFileSync(p,"utf8");if(/Mission Control/i.test(t))hits.push(path.relative(root,p));}}}
+walk(root);if(hits.length){console.error("Legacy website term found in:",hits);process.exit(1)}console.log("No legacy Mission Control references found in public repository content.");
