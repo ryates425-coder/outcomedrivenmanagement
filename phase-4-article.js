@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-copy-link]').forEach(b=>b.addEventListener('click',async()=>{await navigator.clipboard.writeText(location.href);const old=b.textContent;b.textContent='Copied';setTimeout(()=>b.textContent=old,1300)}));
